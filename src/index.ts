@@ -1,7 +1,3 @@
-const foo: string[] = ['bar', 'bar'];
+const foo = 'foo';
 
-function addFruit(fruit: string) {
-  foo.push(fruit);
-}
-
-console.log('heya');
+console.log(foo);
