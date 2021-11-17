@@ -4,4 +4,4 @@ function addFruit(fruit: string) {
   foo.push(fruit);
 }
 
-console.log('hey');
+console.log('heya');
